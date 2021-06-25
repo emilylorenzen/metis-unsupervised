@@ -24,4 +24,4 @@ Sklearn - dimensionality reduction, modeling, evaluation
 Seaborn/matplotlib - graphing
 
 ## Minimum Viable Product:
-For the minimum viable product, I will create a word cloud after removing stop words. This initial EDA will provide insight into how I might further debe
+For the minimum viable product, I will create a word cloud after removing stop words. 
